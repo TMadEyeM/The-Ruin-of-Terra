@@ -1,7 +1,6 @@
-
 ---
-title: "Gods/Goddess"
+title: Gods/Goddess
 draft: false
-tags:
-  - Juno, Queen of Angels
 ---
+Juno, Queen of the Angels
+
