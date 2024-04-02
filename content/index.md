@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
-longform:
+title: Contents
+longform: 
+tags:
+  - Gods
 ---
 
 This is a blank Quartz installation.

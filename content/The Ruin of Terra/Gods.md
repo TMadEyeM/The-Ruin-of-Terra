@@ -1,7 +1,7 @@
 ---
 title: Gods/Goddess
 draft: false
-longform: Gods
+tags: Gods
 ---
 **Lorna, Goddess of Flame** - Goddess of life and death. Worshipped by the most devout.
 
