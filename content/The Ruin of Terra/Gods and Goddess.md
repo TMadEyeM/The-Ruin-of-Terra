@@ -2,7 +2,9 @@
 title: Gods and Goddess
 draft: false
 ---
-**Lorna, Goddess of Flame** - Goddess of life and death. Worshipped by the most devout.
+**Lorna, Goddess of Flame** - Goddess of life and death. Worshipped only by the most devout.
+
+**Luna, Goddess of Ash** - Daughter of the Lorna. Goddess of rebirth and fertility.
 
 **Althea, Goddess of Mending** - Goddess of healing, worshipped by many faiths through various means.
 
@@ -12,5 +14,7 @@ draft: false
 
 **Sindra, Goddess of the Forge** - Worshipped by Dwarfs and Blacksmiths.
 
+**Eva, Goddess of Nature** - 
 
+**Juno, Mother of Gods**
 
