@@ -1,5 +1,6 @@
 ---
 title: Welcome to Quartz
+longform:
 ---
 
 This is a blank Quartz installation.

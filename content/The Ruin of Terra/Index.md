@@ -6,5 +6,5 @@ longform:
   sceneFolder: /
   scenes: []
   ignoredFiles: []
-tags: 
+title: Table of Contents
 ---
