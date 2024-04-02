@@ -3,6 +3,5 @@ title: Contents
 longform: 
 tags: []
 ---
-- [[Gods and Goddess]]
-- 
+[[Gods and Goddess]]
 
