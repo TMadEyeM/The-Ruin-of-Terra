@@ -13,3 +13,8 @@ tags:
 - Major Damian Oke.
 - Iston Black - Old Elven Adventurer, lives by the apple orchard. 
 - Franklin the Small Green Dragon.
+
+Breznik
+---
+- Moira - Major and owner of The White Rose - Dead
+- 
