@@ -14,7 +14,7 @@ draft: false
 
 **Sindra, Goddess of the Forge** - Worshipped by Dwarfs and Blacksmiths.
 
-**Eva, Goddess of Nature** - 
+**Eva, Goddess of Nature** - Not worshipped but assists druids in keeping natures balance. 
 
 **Juno, Mother of Gods**
 
