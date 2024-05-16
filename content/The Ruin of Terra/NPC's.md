@@ -17,3 +17,7 @@ tags:
 Breznik
 ---
 - Moira - Major and owner of The White Rose - Dead
+
+Neverwinter
+---
+- Ruth - Owner of the Library
